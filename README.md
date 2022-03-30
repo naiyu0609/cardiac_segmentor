@@ -1,1 +1,1 @@
-# cardiac_segmentor
+# Cardiac Segmentor
